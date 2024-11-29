@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Vita"
     url: /vita/
+  - title: "Musik"
+    url: /musik/
+  - title: "Weltweit"
+    url: /weltweit/
+  - title: "Computer"
+    url: /computer/

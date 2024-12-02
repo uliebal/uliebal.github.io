@@ -74,9 +74,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/uliebal"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fa-brands fa-ORCID"
+      url: "https://orcid.org/0000-0001-5172-7339"
 
 footer:
   links:

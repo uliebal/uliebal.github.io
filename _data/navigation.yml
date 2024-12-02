@@ -3,6 +3,8 @@ main:
     url: /vita/
   - title: "Musik"
     url: /musik/
+  - title: "Ehrenamtlich"
+    url: /ehre/
   - title: "Weltweit"
     url: /weltweit/
   - title: "Computer"

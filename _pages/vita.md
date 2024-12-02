@@ -24,6 +24,12 @@ title: "Vita"
 
 ---- -->
 
+Allgemein
+---------
+- Geburtsort: Magdeburg
+- Geburtsjahr: 1981, 
+- Mein 2. Saros-Zyklus endet am 16.10.2035
+
 Bildung
 ---------
 
@@ -45,7 +51,7 @@ Bildung
 </details>
 
 
-Experience
+Berufliche Erfahrungen
 ----------
 <!-- https://stackoverflow.com/questions/66631182/can-i-control-the-direction-of-flowcharts-in-mermaid -->
 <!-- https://mermaid.js.org/syntax/block.html -->
@@ -68,7 +74,7 @@ kanban
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]
-        task3["Data Science und Management.<br>Lehrstrategien für die Datenanalyse.<br>Arbeit mit metabolischen Modellen."]
+        task3["Data-Science und -Management.<br>Lehrstrategien für die Datenanalyse.<br>Arbeit mit metabolischen Modellen."]
     RWTH1["2015-2019"]
         task1["PostDoc,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]

@@ -2,19 +2,6 @@
 permalink: /computer/
 title: "Computer"
 
-feature_row:
-  - image_path: /assets/images/HausStats_StatisticsYearly.png
-    alt: "Verbrauchsstatistiken"
-    title: ""
-    excerpt: "."
-  - image_path: /assets/images/Heating_Pellets-ConsumptionFit.png
-    alt: "Jährliche Pellet Verbrauch"
-    title: "Jährliche Pellet Verbrauch"
-    excerpt: "Jährliche Verbrauch an Wärmeenergie von Öl (< Sommer '22) und Pellets (> Sommer '22). Eine sigmidale Kurve fittet den Verbrauch."
-  - image_path: /assets/images/Heating_Pellets-Prediction.png
-    alt: "Vorhersage Füllstand Pelletbunker"
-    title: ""
-    excerpt: "Auf Basis der sigmoidalen Verbrauchsanpassung wird der Füllstand des Pelletbunkers vorhergesagt. Die gemessenen Füllstände ergeben sich aus Abschätzungen des Aschegewichts nach bestimmten Intervallen."
 ---
 
 Hausstatistiken

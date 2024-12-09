@@ -21,6 +21,8 @@ feature_row:
 
 Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivierend Gerd Becker 1. Solo-Fagottist an der [Philharmonie Magdeburg](https://www.theater-magdeburg.de/menschen/philharmonie/). Während des Biochmie-Studium in Halle hatte ich Unterricht bei [Frank Benkendorf](https://www.buehnen-halle.de/de/staatskapelle-halle), und in Rostock bei [Stephan von Hoff](https://www.hmt-rostock.de/hochschule/lehrende/institut-fuer-musik/blaeserabteilung/stephan-von-hoff-fagott/).
 
+1998-2000 Klavierunterricht bei [Dieter Nathow](https://www.musikland-sachsenanhalt.de/beitraege/nathow-dieter-1937-2004/).
+
 | Datum | Orchester | Leiter/Dirigent | Ort | Repertoire | Stimme |
 |:--:||:--:||:--:||:--:||:--:||:--:|
 |2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
@@ -42,7 +44,3 @@ Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivi
 |1998|Jugendorchester Region Nord Sachsen-Anhalt|Peter Wegener|Schloss Bahrendorf (?)| ? | 1. |
 |1997|[AMJ, Deutsch-Französische Jugendorchester](https://musikferien-amj.de/dinard/)|? |Dinard| ?| 2. |
 |1995-2001|[Jugendsinfonieorchester Telemann Musikschule](https://www.telemann-konservatorium.de/angebote/jugendsinfonieorchester/)| Helge Scholz|Magdeburg|Beethoven Klavierkonzert Nr. 3, c-moll, Op. 37| 1. |
-
-
-
-1998-2000 Klavierunterricht bei [Dieter Nathow](https://www.musikland-sachsenanhalt.de/beitraege/nathow-dieter-1937-2004/).

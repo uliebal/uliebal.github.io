@@ -1,6 +1,11 @@
 ---
 permalink: /vita/
 title: "Vita"
+carousels:
+    - images:
+        - image: /assets/images/Logos/mec_elsevier.jpg
+        - image: /assets/images/Logos/frontGen.jpeg
+        - image: /assets/images/Logos/metabolites-logo.png
 ---
 <!-- https://akuszyk.com/2023-05-03-yet-another-mermaid-in-github-pages-guide.html -->
 <!-- http://mermaid.js.org/intro/ -->
@@ -112,4 +117,17 @@ Auch maschinelles Lernen und KI habe ich für die Datenanalyse in der (<a href="
 
 Ich habe viel Erfahrung mit Anträgen bei unterschiedlichen Geldgebern, z.B. BMBF, DFG oder Horizon Europe, und habe mit hoher Erfolgsquote Anträge geschrieben. Auch in der akademischen Verwaltung war ich aktiv: als Gründungsmitglied
 des Center for Computational Life Science (<a href="https://www.ccls.rwth-aachen.de/cms">CCLS</a>) an der RWTH, ich habe mehrere Berufungskommissionen begleitet und mit den Data Stewards der RWTH zusammengearbeitet.
+<figure class="full">
+  <a href="/assets/images/24_iAMBCompBiotech.jpeg">
+  <img src="/assets/images/24_iAMBCompBiotech.jpeg"></a>
+
+  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu.</figcaption>
+  <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
+</figure>
+
 </details>
+
+## Publikationen
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+

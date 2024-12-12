@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/12_fsor.jpg
     alt: "FSOR"
     title: "FSOR"
-    excerpt: "2007-2015: Fagottist beim [Freies Studentisches Rostock (FSOR)](https://www.fsor.de). Dirigiert von Tobias Haußig."
+    excerpt: "2007-2015: Fagottist beim [Freies Studentisches Rostock (FSOR)](https://www.fsor.de)."
   - image_path: /assets/images/11_michaelstein.jpg
     alt: "Bachs Erben"
     title: "Bachs Erben"

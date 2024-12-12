@@ -3,9 +3,20 @@ permalink: /vita/
 title: "Vita"
 carousels:
     - images:
-        - image: /assets/images/Logos/mec_elsevier.jpg
+        - image: /assets/images/Logos/mec.gif
+          url: /assets/Files/paper/Liebal_CO2toSuc_18.pdf
+          caption: '2018: Analysis of microbial CO2 fixation.'
         - image: /assets/images/Logos/frontGen.jpeg
+          url: https://www.spiegel.de
         - image: /assets/images/Logos/metabolites-logo.png
+          url: https://www.spiegel.de
+          caption: '2020: Literaturüberblick zu maschinellem Lernen .'
+        - image: /assets/images/Logos/mec_elsevier.jpg
+          url: https://www.spiegel.de
+        - image: /assets/images/Logos/frontGen.jpeg
+          url: https://www.spiegel.de
+        - image: /assets/images/Logos/metabolites-logo.png
+          url: https://www.spiegel.de
 ---
 <!-- https://akuszyk.com/2023-05-03-yet-another-mermaid-in-github-pages-guide.html -->
 <!-- http://mermaid.js.org/intro/ -->
@@ -129,5 +140,5 @@ des Center for Computational Life Science (<a href="https://www.ccls.rwth-aachen
 
 ## Publikationen
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="5" number="1" %}
 

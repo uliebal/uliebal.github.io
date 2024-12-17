@@ -28,10 +28,10 @@
           <ul>
             {% for item in page.carousels[number].images %}
             <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
-              <a style="text-decoration:none;display:block;width:100%;height:100%;" href="{{ item.url }}">
+              <a style="text-decoration:none;display:block;width:100%;height:100%;color: darkblue;" href="{{ item.url }}">
                 <!-- <p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">{{ item.caption }}</p> -->
                 <!-- <div class="box">{{ }}</div> -->
-                <div class="box" style="background-color: rgba(240, 255, 255, 0.607); text-decoration: underline;">{{ item.caption }}</div>
+                <div class="box" style="background-color: rgba(240, 255, 255, 0.75); text-decoration: underline;">{{ item.caption }}</div>
                 </a> 
             </li>
             {% endfor %}
@@ -94,7 +94,7 @@
   cursor: pointer;
   border-width: 5px 5px 0 0;
   border-style: solid;
-  border-color: #fafafa;
+  border-color: #000000be;
   opacity: 0.35;
   opacity: 1;
   outline: 0;
@@ -174,7 +174,7 @@
   width: 30px;
 }
 .carousel__indicator {
-  background-color: #fafafa;
+  background-color: #000000be;
 }
 {% for item in page.carousels[number].images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),

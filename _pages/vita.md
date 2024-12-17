@@ -1,22 +1,50 @@
 ---
 permalink: /vita/
 title: "Vita"
+classes: wide
 carousels:
     - images:
-        - image: /assets/images/Logos/mec.gif
-          url: /assets/Files/paper/Liebal_CO2toSuc_18.pdf
-          caption: '2018: Analysis of microbial CO2 fixation.'
-        - image: /assets/images/Logos/frontGen.jpeg
-          url: https://www.spiegel.de
+###########################
+        - image: /assets/images/Logos/jmbe.jpg
+          url: /assets/Files/paper/Liebal_BioLabSim_23.pdf
+          caption: '2023: Simulation von Biotech-Experimenten für die Lehre.'
+###########################
+        - image: /assets/images/Logos/Journal_of_Fungi_logo_2019.png
+          url: /assets/Files/paper/Liebal_GSMM-Umay_22.pdf
+          caption: '2022: Computermodell des Stoffwechsels vom Brandpilz.'
+###########################
+        - image: /assets/images/Logos/frontiers.png
+          url: /assets/Files/paper/Liebal_Exp2Ipynb_21.pdf
+          caption: '2021: Maschinelles Lernen zur Analyse von Promotoren.'
+###########################
+        - image: /assets/images/Logos/bmc-logo.png
+          url: /assets/Files/paper/Liebal_GSMM-Opol_21.pdf
+          caption: '2021: Computermodell des Stoffwechsels einer methylotrophen Hefe.'
+###########################
         - image: /assets/images/Logos/metabolites-logo.png
-          url: https://www.spiegel.de
-          caption: '2020: Literaturüberblick zu maschinellem Lernen .'
+          url: /assets/Files/paper/Liebal_ML4MSMetabolomics_20.pdf
+          caption: '2020: Literaturüberblick zu maschinellem Lernen für Metabolomics.'
+###########################
         - image: /assets/images/Logos/mec_elsevier.jpg
-          url: https://www.spiegel.de
-        - image: /assets/images/Logos/frontGen.jpeg
-          url: https://www.spiegel.de
-        - image: /assets/images/Logos/metabolites-logo.png
-          url: https://www.spiegel.de
+          url: /assets/Files/paper/Liebal_CO2toSuc_18.pdf
+          caption: '2018: Wirtschaftlichkeitsanalyse zur mikrobiellen CO2 Fixierung.'
+###########################
+        - image: /assets/images/Logos/ageing.jpeg
+          url: /assets/Files/paper/Liebal_SystBioAging_15.pdf
+          caption: '2015: Altersprozesse unter dem Blickwinkel der Systembiologie.'
+###########################
+        - image: /assets/images/Logos/BMC-Systems-Biology.png
+          url: /assets/Files/paper/Liebal_StressosomeSims_13.pdf
+          caption: '2013: Räumliche Simulationen der bakteriellen Signalverarbeitung.'
+###########################
+        - image: /assets/images/Logos/mbs.jpeg
+          url: /assets/Files/paper/Liebal_SigBModelBsub_12.pdf
+          caption: '2012: Evaluation von Signal-Scenarien der bakteriellen Stressantwort.'
+###########################
+        - image: /assets/images/Logos/jtb.jpg
+          url: /assets/Files/paper/Liebal_MathSignBsub_10.pdf
+          caption: '2010: Literaturüberblick zu Modellen bakterieller Signalverarbeitung.'
+###########################
 ---
 <!-- https://akuszyk.com/2023-05-03-yet-another-mermaid-in-github-pages-guide.html -->
 <!-- http://mermaid.js.org/intro/ -->
@@ -119,6 +147,13 @@ kanban
 ## Arbeiten am iAMB der RWTH
 
 Zwischen 2022 und 2024 habe ich als Nachwuchsleiter die computergestützte Biotechnologie verantwortet. Dabei habe ich Studierende in Praktika und Abschlussarbeiten in einem motivierendem Arbeitsklima betreut. 
+<figure class="full">
+  <a href="/assets/images/24_iAMBCompBiotech.jpeg">
+  <img src="/assets/images/24_iAMBCompBiotech.jpeg"></a>
+
+  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu.</figcaption>
+  <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
+</figure>
 
 <details close>
 <summary>Mehr Infos</summary>
@@ -129,10 +164,10 @@ Auch maschinelles Lernen und KI habe ich für die Datenanalyse in der (<a href="
 Ich habe viel Erfahrung mit Anträgen bei unterschiedlichen Geldgebern, z.B. BMBF, DFG oder Horizon Europe, und habe mit hoher Erfolgsquote Anträge geschrieben. Auch in der akademischen Verwaltung war ich aktiv: als Gründungsmitglied
 des Center for Computational Life Science (<a href="https://www.ccls.rwth-aachen.de/cms">CCLS</a>) an der RWTH, ich habe mehrere Berufungskommissionen begleitet und mit den Data Stewards der RWTH zusammengearbeitet.
 <figure class="full">
-  <a href="/assets/images/24_iAMBCompBiotech.jpeg">
-  <img src="/assets/images/24_iAMBCompBiotech.jpeg"></a>
+  <a href="/assets/images/21_BioLabSim-Bescheid.jpeg">
+  <img src="/assets/images/21_BioLabSim-Bescheid.jpeg"></a>
 
-  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu.</figcaption>
+  <figcaption>Staatssekretär Dr. Dirk Günnewig, Dr. Ulf Liebal und Prof. Dr. Lars Blank bei der Übergabe des Förderbescheids für das Lehrprojekt BioLabSim in 2021.</figcaption>
   <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
 </figure>
 

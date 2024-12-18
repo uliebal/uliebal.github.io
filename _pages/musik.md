@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/12_fsor.jpg
     alt: "FSOR"
     title: "FSOR"
-    excerpt: "2007-2015: Fagottist beim [Freies Studentisches Rostock (FSOR)](https://www.fsor.de)."
+    excerpt: "2007-2015: Fagottist beim [Freies Studentisches Orchester Rostock (FSOR)](https://www.fsor.de)."
   - image_path: /assets/images/11_michaelstein.jpg
     alt: "Bachs Erben"
     title: "Bachs Erben"
@@ -19,7 +19,7 @@ feature_row:
 
 {% include feature_row %}
 
-Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivierend Gerd Becker 1. Solo-Fagottist an der [Philharmonie Magdeburg](https://www.theater-magdeburg.de/menschen/philharmonie/). Während des Biochmie-Studium in Halle hatte ich Unterricht bei [Frank Benkendorf](https://www.buehnen-halle.de/de/staatskapelle-halle), und in Rostock bei [Stephan von Hoff](https://www.hmt-rostock.de/hochschule/lehrende/institut-fuer-musik/blaeserabteilung/stephan-von-hoff-fagott/).
+Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivierend Gerd Becker, 1. Solo-Fagottist an der [Philharmonie Magdeburg](https://www.theater-magdeburg.de/menschen/philharmonie/). Während des Biochmie-Studium in Halle hatte ich Unterricht bei [Frank Benkendorf](https://www.buehnen-halle.de/de/staatskapelle-halle), und in Rostock bei [Stephan von Hoff](https://www.hmt-rostock.de/hochschule/lehrende/institut-fuer-musik/blaeserabteilung/stephan-von-hoff-fagott/).
 
 1998-2000 Klavierunterricht bei [Dieter Nathow](https://www.musikland-sachsenanhalt.de/beitraege/nathow-dieter-1937-2004/).
 
@@ -36,7 +36,7 @@ Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivi
 |2010| [Bundesamateurorchester](https://bdlo.de/musizieren/bundesamateurorchester/)| Christian Voß|Weimar|Hector Berlioz, Symphonie Fantastique op. 14|2. |
 |2010| [Wendland Sinfonieorchester](https://www.wendlandsinfonieorchester.de/)| Felix Bender | Wendland | Modest Mussorgsky, Bilder einer Ausstellung| 1. |
 |2008|KAIST Orchestra|Yung Seong-Gyu|Daejeon, Südkorea|u.a. Brahms, 4. Sinfonie|1.|
-|2007-2015|[Freies Studentisches Rostock (FSOR)](https://www.fsor.de)|Matthias Lorenz, Peter Vierneisel, Itay Dvori, Jeongmin Yang, Henning Ehlert, Erina Yashima|Rostock|verschieden|1.|
+|2007-2015|[Freies Studentisches Orchester Rostock (FSOR)](https://www.fsor.de)|Matthias Lorenz, Peter Vierneisel, Itay Dvori, Jeongmin Yang, Henning Ehlert, Erina Yashima|Rostock|verschieden|1.|
 |2007-2012| Akademische Orchester Brandenburg| Ltg. Ludwig Nast, Dirigat: Uwe Klussmann| Brandenburg (Havel)|Vivaldi, Fagottkonzert C; J.C. Bach, Fagottkonzert B; Ganglberger, Teddybär| Solist |
 |2007| Akademische Orchester Uni. Rostock| Thomas König| Rostock|verschieden| 1. |
 |2005-2006|Viventi, Oulu Conservatory|Jukka Myllys|Oulu, Finnland |Kimmo Hakola, Klarinettenkonzert | 1. |

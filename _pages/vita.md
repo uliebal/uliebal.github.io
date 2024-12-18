@@ -85,7 +85,7 @@ Bildung
 
 <details close>
 <summary>28.07.2006: Diplom (Biochemie), <a href="https://www.biochemtech.uni-halle.de/">Martin-Luther-Universität Halle/Wittenberg</a>, Halle (Saale)</summary>
-<ul><li><b>Titel</b>: Charakterisierung der rekombinante Expression von Wnt Proteinen in <i>Escherichia coli</i>.<a href="/assets/Files/Diplom_Liebal_2006.pdf"><i class="fa-solid fa-download"></i></a></li>
+<ul><li><b>Titel</b>: Charakterisierung der rekombinanten Expression von Wnt Proteinen in <i>Escherichia coli</i>.<a href="/assets/Files/Diplom_Liebal_2006.pdf"><i class="fa-solid fa-download"></i></a></li>
     <li><b>Note</b>: 1,3 (sehr gut)</li></ul>
 </details>
 
@@ -158,9 +158,9 @@ Zwischen 2022 und 2024 habe ich als Nachwuchsleiter die computergestützte Biote
 <details close>
 <summary>Mehr Infos</summary>
 In meiner Gruppe haben wir biotechnologische Prozesse simuliert und informative Analyse-Workflows entwickelt. Ein Kernelement meiner Forschung sind genomskalige metabolische Modelle von Mikroorganismen. Solche Modelle habe ich von verschiedenen Organismen erstellt (<a href="https://dx.doi.org/10.3390/jof8050524"><i>Ustilago maydis</i></a>, <a href="https://dx.doi.org/10.1186/s12896-021-00675-w"><i>Ogataea polymorpha</i></a>, <a href="https://dx.doi.org/10.1038/s44320-024-00060-7"><i>Bäckerhefe</i></a>. Die Modelle untersuche ich nach optimalen Bedingungen für biotechnologische Produktion von verschiedenen Substrat- und Zielkomponenten (z.B. <a href="https://dx.doi.org/10.1186/s12934-023-02283-z">Methanolumwandlung</a>, <a href="https://dx.doi.org/10.1002/bit.28693">Itaconat Produktion</a>). Ich verknüpfe Theorie und Experiment, um zum Beispiel durch statistische Versuchsplanung optimale Prozessbedingungen zu bestimmen (<a href="https://doi.org/10.1016/j.nbt.2024.08.505">Ginseng-enthaltende Stoffe in Hefe</a>, oder die Modellvorhersagen durch Experimente zu validieren (Genexpression in Bakterien <a href="https://dx.doi.org/10.1021/acssynbio.3c00084">1</a>, <a href="https://doi.org/10.1016/j.jbiotec.2005.05.028">2</a>). <br>
-
+<br>
 Auch maschinelles Lernen und KI habe ich für die Datenanalyse in der (<a href="https://dx.doi.org/10.3389/fbinf.2021.747428">Genexpression</a>) und für <a href="https://dx.doi.org/10.3390/metabo10060243">Metabolomics</a>) eingesetzt. Ich benutze Python für Simulation und Optimierung, z.B. lineare Optimierung, genetische Algorithmen oder maschinelles Lernen mit dem Ziel den FAIR-Standards zu entsprechen. Ich war Ansprechpartner für Datenmanagement, habe die Einführung eines elektronischen Laborbuches organisiert und war IT-Systemadministrator.<br>
-
+<br>
 Ich habe viel Erfahrung mit Anträgen bei unterschiedlichen Geldgebern, z.B. BMBF, DFG oder Horizon Europe, und habe mit hoher Erfolgsquote Anträge geschrieben. Auch in der akademischen Verwaltung war ich aktiv: als Gründungsmitglied
 des Center for Computational Life Science (<a href="https://www.ccls.rwth-aachen.de/cms">CCLS</a>) an der RWTH, ich habe mehrere Berufungskommissionen begleitet und mit den Data Stewards der RWTH zusammengearbeitet.
 <figure class="full">

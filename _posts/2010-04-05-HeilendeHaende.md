@@ -6,48 +6,8 @@ categories:
   - Blog
 tags:
   - Fantasy
-published: true
+published: false
 ---
------BEGIN PGP MESSAGE-----
+Die letzte Nacht verlief für mich dann doch nicht so traumhaft, wie ihr mich in den Schlaf gesandt habt. Der Puh Err Tee hat wahrscheinlich doch einiges an Teein in sich, und da ich davon über den Tag mehr als einen Liter getrunken hatte, konnte ich doch nicht in den Schlaf sinken, von dem ich geträumt hatte. Ich wälzte mich also von einer Seite auf die nächste, während die Lunge immer bedrückender, der Hals immer belegter und mein Nachbar immer lauter schnarchte. Und während ich so im Fieberwahn einen Gedanken neben den nächsten gesellte, stellte ich spontan die Hypothese auf, daß ich vielleicht verrückt bin, zusammen mit der gesamten Menschheit, und daß wir alle schon in einem Irrenhaus leben, zugegeben ein recht großes mit unsichtbaren Gitterstäben, trotzdem ein Irrenhaus. Irritiert versuchte ich an die Decke starrend fiebrig diese Aussage zu widerlegen, aber ich hab's in der Dunkelheit nicht geschafft, sobald man akzeptiert, daß man verrückt ist, und die ganze Welt ein Irrenhaus ist, wird man in ein Irrenhaus gesteckt, zumindest wird man für verrückt gehalten und damit erfüllt sich der Satz selbst. Ich hatte es nicht geschafft, den Satz zu entkräften und irgendwann war ich von seiner Wahrheit überzeugt. In einem Irrenhaus sah ich aber das völlige Fehlen eines Lebenssinns, die ganze Geschichte ist nur eine Aneinanderreihung spastischen Zuckens. Selbst in der Matrix hatte der Menschen Hülle die Bedeutung der Energieproduktion, aber ein Irrenhaus wird nur verwaltet. Als Atheist hält man nicht viel von Lebenssinn, aber die die Annahme, das der Mensch nicht mehr als seinen eigenen Wahn verwalten kann war doch sehr hart. Ich wünschte mir einen Gott an den ich glauben könnte, eine Lüge die stärker war. Das Brüten über den Irrenhausvergleich saugte Lebenskraft ab, die sowieso mit einer Bronchitis zu kämpfen hatte. Immer kälter wurde der Schweiß auf der Stirn, immer bedrohlicher das Fehlen einer Lebensorientierung und immer bereitwilliger das einsinken in die Krankheit, daß sich das Gehirn unbewußt einen Neustart wünschte und unterbewußt auf einen Nervenzusammenbruch hinarbeitete. Hilfe war auf dem Weg zum Neustart dringlich ersehnt, mit dem Handy konnte man zwar aufgrund der niedrigen Batterieladung nicht telefonieren, sich doch wenigstens Nummern anzeigen lassen, um dann vielleicht das Festnetzgerät zu benutzen. Allein soviel Denken hatte sich der bewussten Sinnmetzelei schon entzogen, daß ich mir keine zwei Zahlen merken konnte. Ich schlürfte stolpernt in das Treppenhaus und klingelte bei den Nachbarn, die nur hatten fesselndere Träume als verrückte Irrenhäuser, und so legte ich mich im Treppenhaus auf den Boden, der ohnmächtige Nervenzusammenbruch wollte sich nicht länger hinausschieben lassen.
 
-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
-=OBtr
------END PGP MESSAGE-----
+Blinzelnd konnte das Gehirn wieder Informationen aus der Retinaverarbeiten, das Licht im Treppenhaus war noch an, und der neuronale Neustart nur eine Sache von Sekunden. Jede Pore hatte erkalteten Schweiß ausgepresst, der kalte Steinboden erschauerte den Rücken. Aber der Neustart war geglückt, der Irrenhausvergleich nicht überzeugender als all die anderen synthetischen Erklärungen wie Pastafarians usw. Trotzdem war es ein sehr erschreckendes Erlebniss wie allein ein Vergleich, eine Ansicht über die Welt oder eine Änderung darin das Denken so zerreißen kann, daß man fast lebensmüd wird und die Rettung nicht durchs Argumentieren sondern durch einen Nervenzusammenbruch kommt. Zur Ablenkung hab ich ein wenig Computer gespielt, und zur Aufmunterung kurze Erotikclips im Internet betrachtet. Trotzdem konnte ich nicht viel danach, am morgen dann zur Ärztin und nach Brandenburg, nicht daß ich wieder auf dem kalten Boden des Treppenhauses liegenbleibe.

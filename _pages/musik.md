@@ -26,14 +26,14 @@ Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivi
 | Datum | Orchester | Leiter/Dirigent | Ort | Repertoire | Stimme |
 |:--:||:--:||:--:||:--:||:--:||:--:|
 |2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
-|2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay| Aachen, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz,|1./2./Kontra|
-|2016| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall | Aachen | ?| 2.|
+|2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay, Senne La Mela| Aachen, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz,|1./2./Kontra|
+|2016, 2025| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall, Tobias Haußig | Aachen | Hector Berlioz, Symphonie Fantastique | 2.|
 |2015| [Junges Sinfonieorchester](https://www.jso-aachen.de/)| Peter Sauerwein | Aachen | Guiseppe Verdi, Requiem | 3.  |
 |2011| Orchester Neubrandenburg/Norddeutsche Philharmonie| Stefan Malzew, Solist: Jonas Kaufmann| Saarbrücken | Gustav Mahler, Das Lied von der Erde | 2.  |
 |2011|[Potsdamer Orchesterwoche](http://www.pow-online.de/)| Dietrich Schönherr | Werder (Havel)|Joseph Haydn, Concertante B-Dur (Hob. I:105)| Solist|
 |2011|[Jugend-Barockorchester](https://bachs-erben.de/)|Raphael Alpermann|Michaelstein|Joseph Haydn|1.|
 |2011| Landesjugendorchester Mecklenburg-Vorpommern([LJO-MV](https://www.landesmusikrat-mv.de/ensembles/landesjugendorchester/))| Peter Aderhold | Rostock | Sibelius | 2. |
-|2010| [Bundesamateurorchester](https://bdlo.de/musizieren/bundesamateurorchester/)| Christian Voß|Weimar|Hector Berlioz, Symphonie Fantastique op. 14|2. |
+|2010| [Bundesamateurorchester](https://bdlo.de/musizieren/bundesamateurorchester/)| Christian Voß|Weimar|Hector Berlioz, Symphonie Fantastique |2. |
 |2010| [Wendland Sinfonieorchester](https://www.wendlandsinfonieorchester.de/)| Felix Bender | Wendland | Modest Mussorgsky, Bilder einer Ausstellung| 1. |
 |2008|KAIST Orchestra|Yung Seong-Gyu|Daejeon, Südkorea|u.a. Brahms, 4. Sinfonie|1.|
 |2007-2015|[Freies Studentisches Orchester Rostock (FSOR)](https://www.fsor.de)|Matthias Lorenz, Peter Vierneisel, Itay Dvori, Jeongmin Yang, Henning Ehlert, Erina Yashima|Rostock|verschieden|1.|

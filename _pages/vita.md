@@ -151,7 +151,7 @@ Zwischen 2022 und 2024 habe ich als Nachwuchsleiter die computergestützte Biote
   <a href="/assets/images/24_iAMBCompBiotech.jpeg">
   <img src="/assets/images/24_iAMBCompBiotech.jpeg"></a>
 
-  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu.</figcaption>
+  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu. Foto: Martin Zimmermann</figcaption>
   <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
 </figure>
 
@@ -167,7 +167,7 @@ des Center for Computational Life Science (<a href="https://www.ccls.rwth-aachen
   <a href="/assets/images/21_BioLabSim-Bescheid.jpeg">
   <img src="/assets/images/21_BioLabSim-Bescheid.jpeg"></a>
 
-  <figcaption>Staatssekretär Dr. Dirk Günnewig, Dr. Ulf Liebal und Prof. Dr. Lars Blank bei der Übergabe des Förderbescheids für das Lehrprojekt BioLabSim in 2021.</figcaption>
+  <figcaption>Staatssekretär Dr. Dirk Günnewig, Dr. Ulf Liebal und Prof. Dr. Lars Blank bei der Übergabe des Förderbescheids für das Lehrprojekt BioLabSim in 2021. Foto: <a href="https://www.rwth-aachen.de/go/id/ucpbg?#aaaaaaaaaaucpee">Pressemitteilungen RWTH</a></figcaption>
   <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
 </figure>
 

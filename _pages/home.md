@@ -12,4 +12,13 @@ excerpt: >
   Normales und Besonderes.<br />
 ---
 
-Auf dieser Seite schreibe ich etwas über mich und verlinke Sachen aus meinem Leben.
+>Weiter immer weiter - nur weil dir alles offensteht...<br>
+<p>Dota Kehr, Schlüssel.</p>
+
+ <hr> 
+
+>Ich wollte ihn auf die Probe stellen: “und was ist Zwei mal Zwei?” <br>
+>Er: “Der Lügner würde behaupten fünf - der Neutrale weder zwei noch sechs - der vorsichtige Esoteriker würde sich äußern: Logarithmus 10.000 oder so.”
+>“Wie wäre es mit 4”, schlug ich verächtlich vor.<br>
+>“Das sind die ausgesprochenen Fanatiker. Klavki! Rationalismus ist: Wahrheitskonsum.”<br>
+<p>Klavki, Der Wolkenhändler</p>

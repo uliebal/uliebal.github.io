@@ -72,7 +72,7 @@ Allgemein
 ---------
 - Geburtsort: Magdeburg
 - Geburtsjahr: 1981, 
-- Mein 2. Saros-Zyklus endet am 16.10.2035
+- Mein 3. Saros-Zyklus beginnt am 16.10.2035
 
 Bildung
 ---------

@@ -1,5 +1,5 @@
 ---
-title: "Post: Die erste Pilgerwoche"
+title: "Post: Die nördliche Pilgerzeit ~255 km"
 date: 2024-09-23
 excerpt_separator: "<!--more-->"
 categories:
@@ -130,7 +130,7 @@ Im Dunkeln auf dem Friedhof Demen und nach der Nova ausschau gehalten. Der Mond 
 <summary>21. September 2024, Demen-Parchim (27 km)</summary>
 
 <ul><li><b>Allgemein</b></li>
- Der Weg war yu Beginn und am Ende hübsch im Wald, die meiste Zeit dazwischen allerdings auf Teerstraßen in praller Sonne. Im Dorf Kassebade gibt es keine Bäume an der Straße! In Dargelütz gab es eine tolle Pause mit Aussteigern von den "Schenkern". Der Wockersee erlaubte ein erfrischendes Bad am Ende. Gestern mittag habe ich kurz in einem Buch über Ramses II in Sternberg gelesen, imponierend was das Kapitel über sein Verhältnis mit Frauen.
+ Der Weg war zu Beginn und am Ende hübsch im Wald, die meiste Zeit dazwischen allerdings auf Teerstraßen in praller Sonne. Im Dorf Kassebade gibt es keine Bäume an der Straße! In Dargelütz gab es eine tolle Pause mit Aussteigern von den "Schenkern". Der Wockersee erlaubte ein erfrischendes Bad am Ende. Gestern mittag habe ich kurz in einem Buch über Ramses II in Sternberg gelesen, imponierend was das Kapitel über sein Verhältnis mit Frauen.
 
  Parchim ist wieder ein tolles Städtchen. Ich habe im indischen Restaurant "Himalaya" gegessen. Die Pastorin kannte Robert M. (Barockflöte, Cello) leider nicht, sie ist erst 1 Jahr vor Ort. Aus einer öffentlichen Buchleihe habe ich "der Taiga Jäger" von Arsenjew genommen. Der Hinterhof mit Garten öffnet den Sternenhimmel nach Süd-Westen. In der Mitte is klar Herkules erkennbar, am Rand des Hauses der große Wagen, während Arcturus von Bäumen verdeckt ist. Bei der nördl. Krone ist immer noch nur der Haubstern klar zu sehen.
 
@@ -148,7 +148,26 @@ In Dargelütz gehe ich an einem Schild vorbei mit dem Jakobszeichen und der Aufs
 ----------------------
 
 <details close>
-<summary>21. September 2024, Demen-Parchim (27 km)</summary>
+<summary>22. September 2024, Parchim-Muggerkuhl (26 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ Angenehmer Weg mit viel Waldstücken. Kein See zum Baden. In Drefahl lange mit Lutz gesprochen. Maschinenbauer der zehn Jahre in Afrika, Sierra Leone, Elfenbeinküste, Notstromaggregate gebaut hat. Er hat viel mit Hunden gemacht ist beim Katastrophenschutz. Kommt aus Berlin. Halbe Stunde haben wir geschnackt, vorallem er. Abends in Muggerkuhl ein fantastischer Sternenhimmel wie in der Eifel. Ich konnte die gesamte Corona Borealis erkennen, TCrB ist noch nicht losgegangen.
+
+<li><b>Wetter</b></li>
+ schwacher Wind aus Süd-Ost
+
+<li><b>Körper</b></li>
+Beim Aufstehen keine Schmerzen. Beim längeren Laufen Fersenschmerz, Zehen keine Schmerzen.
+
+<li><b>Besonderes</b></li>
+Unterkunft bei Gudrun Springer in Muggerkuhl. Sehr offen mit brandenburger Schnauze und lernt gerne neue Menschen kennen. Hat eine Kulturscheune für Blues, Beepop, etc. in Muggerkuhl aufgebaut. Wache Augen, 70 Jahre, dunkles kurzes Haar. Sie ist eng mit einer Adligen aus Lüneburg befreundet, Dorle von Estorf, verwandt mit Siedentopf, die das Kinderbuch Elfenraub geschrieben hat. Verbindung zur Künstlerfamilie von Bodeker und Wilhelm Kempf, für den sie in der Casa Ofeo in Positarno gearbeitet hat.
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>23. September 2024, Muggerkuhl-Perleberg (26 km)</summary>
 
 <ul><li><b>Allgemein</b></li>
  
@@ -161,3 +180,89 @@ In Dargelütz gehe ich an einem Schild vorbei mit dem Jakobszeichen und der Aufs
 <li><b>Besonderes</b></li>
  </ul>
 </details>
+
+----------------------
+
+<details close>
+<summary>24. September 2024, Perleberg-Bad-Wilsnack (10 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ 
+<li><b>Wetter</b></li>
+ 
+<li><b>Tiere</b></li>
+
+<li><b>Körper</b></li>
+
+<li><b>Besonderes</b></li>
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>25. September 2024, Bad-Wilsnack-Havelberg (25 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ 
+<li><b>Wetter</b></li>
+ 
+<li><b>Tiere</b></li>
+
+<li><b>Körper</b></li>
+
+<li><b>Besonderes</b></li>
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>26. September 2024, Havelberg-Hohennauen (23 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ 
+<li><b>Wetter</b></li>
+ 
+<li><b>Tiere</b></li>
+
+<li><b>Körper</b></li>
+
+<li><b>Besonderes</b></li>
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>27. September 2024, Hohennauen-Premnitz (22 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ 
+<li><b>Wetter</b></li>
+ 
+<li><b>Tiere</b></li>
+
+<li><b>Körper</b></li>
+
+<li><b>Besonderes</b></li>
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>28. September 2024, Premnitz-Pritzerbe (13 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ 
+<li><b>Wetter</b></li>
+ 
+<li><b>Tiere</b></li>
+
+<li><b>Körper</b></li>
+
+<li><b>Besonderes</b></li>
+ </ul>
+</details>
+

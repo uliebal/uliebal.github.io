@@ -12,7 +12,7 @@ note: encryption by https://encrypt-online.com/ with OpenSSL 1.1.0, type des3 ba
 ---
 
 <details close>
-<summary>Aachen 16. September 2024</summary>
+<summary>16. September 2024, Aachen-Rostock, Zug</summary>
 
 <ul><li><b>Allgemein</b></li>
 Am 15. September hatte ich eine kleine Feier organisiert, vorallem mit Leuten aus dem Institut. Philipp Demling, Aziz Ben-Ammar, Samira van den Bogaard, Anrea Grego, Joseph und Kathi Nellissen, später kam noch Tobias Alter dazu. Anu und Liz haben Nachos und Enchiladas gemacht ich habe mit Liz Deutte gespielt und mit Ishaan und Tobias Fußball. Die Sauna habe ich auch präsentiert, auch wenn die Temperatur nur bis 70&#8451; geht. Ishaan ist am morgen zur Klassenfahrt gefahren. Pilgern heißt auf ein spirituelles Ziel zu wandern. Da ich dieses (noch) nicht habe, bin ich kein echter Pilger.
@@ -31,9 +31,10 @@ Weiterfahrt nach Warnemünde und beim Textilstrand naktßbaden in der stürmisch
 </ul>
 </details>
 
+----------------------
 
 <details close>
-<summary>Aachen 17. September 2024</summary>
+<summary>17. September 2024, Rostock</summary>
 
 <ul>
 <li><b>Allgemein</b></li>
@@ -53,9 +54,10 @@ Besichtigung der Vorpommern-Brücke mit Felix. Turm der Petrikirche mit fast 100
 </ul>
 </details>
 
+----------------------
 
 <details close>
-<summary>Aachen 18. September 2024, Rostock-Schwaan (24 km) </summary>
+<summary>18. September 2024, Rostock-Schwaan (24 km) </summary>
 
 <ul>
 <li><b>Allgemein</b></li>
@@ -77,10 +79,10 @@ Etwas Blasen an den Fersen und kleine Zeh links. Knie leicht geschwollen.
 </ul>
 </details>
 
-
+----------------------
 
 <details close>
-<summary>Aachen 19. September 2024, Schwaan-Eickhof (34 km)</summary>
+<summary>19. September 2024, Schwaan-Eickhof (34 km)</summary>
 
 <ul><li><b>Allgemein</b></li>
  Sehr anstrengende Route. Natürlich schon sehr lang, aber in Bützow musste ich Einkäufe für den Abend machen und habe dafür Edeka un Pennz durchgesucht, um eine Spagetthi-Mischung zu finden. Die Natter hätte als Mutprobe gut gepasst, aber ich war zu erschöpft schon, sie ist schnell weggekrochen und ich habe schon eine Mensch-Geschichte gehabt. In Rühn hat mich eine Rentner-Walking-Gruppe zu sich gerufen und mir Radler angeboten, der Sportverein Rühn! Ich bin erst gegen 19 Uhr am Ziel angekommen, dann kurz Anmeldung und dann hoch, selbst Essen kochen anstrengend. Bei der Abzweigung zum Freibad Rühner See gibt es einen kleinen See in dem ich geschwommen bin.
@@ -100,9 +102,53 @@ Jesley saß in einem indischen Imbiß in Bützow neben mir. Rosa Jogging-Anzug, 
 </ul>
 </details>
 
+----------------------
 
 <details close>
-<summary>Aachen 20. September 2024, Eickhof-Demen (26 km)</summary>
+<summary>20. September 2024, Eickhof-Demen (26 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ Im Kaarzer Holz, kurz vor Demen verliere ich wieder die Anleitung. Mithilfe des Kompass gehe ich jeden Weg nach Süden und komme endlich in Demen an. Sehr schöne Gegend im Durchbruchstal Warnow, vorallem Buchenhof. Vor Sternberg leistet mir ein Fahradfahrer Gesellschaft und erzählt über die Bedeutung der Rapsindustrie mit Diesel, Sternbergs politische Wichtigkeit und den größten Müllhändler der Welt. Sternberg ist ein hübsches, kleines Städtchen, der Fleischer am Markt ist sehr gut und beliebt, Soljanka. Später erfrischendes Bad im Wustrowsee. Ich habe die Leiterin vom Pilgerkloster Tempzin getroffen, die traurig war, dass ich ihr Kloster übersprungen habe. 
+
+ Axel (70 Jahre) erzählt von den Russen und den Amerikanern in der Region. Er war Arbeiter für Be- und Entwässerung zum Bau von Truppenübungsplätzen und Autobahnen. Er hat ein großes Fernglas mit dem er am Wustrower See alles beobachtet.
+
+<li><b>Wetter</b></li>
+ Sonnig, auffrischender Wind aus Ost.
+
+<li><b>Körper</b></li>
+Linkerkleiner Zeh mit großer Blase, Blasen an den Fersen, kleine Blase 2. Zeh rechts.
+
+<li><b>Besonderes</b></li>
+Im Dunkeln auf dem Friedhof Demen und nach der Nova ausschau gehalten. Der Mond war rosig über dem Horizont, 3 Tage nach Vollmond. Arkturus gut zu sehen und den Hauptstern von Corona Borealis, noch keine Novae von TCrB.
+
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>21. September 2024, Demen-Parchim (27 km)</summary>
+
+<ul><li><b>Allgemein</b></li>
+ Der Weg war yu Beginn und am Ende hübsch im Wald, die meiste Zeit dazwischen allerdings auf Teerstraßen in praller Sonne. Im Dorf Kassebade gibt es keine Bäume an der Straße! In Dargelütz gab es eine tolle Pause mit Aussteigern von den "Schenkern". Der Wockersee erlaubte ein erfrischendes Bad am Ende. Gestern mittag habe ich kurz in einem Buch über Ramses II in Sternberg gelesen, imponierend was das Kapitel über sein Verhältnis mit Frauen.
+
+ Parchim ist wieder ein tolles Städtchen. Ich habe im indischen Restaurant "Himalaya" gegessen. Die Pastorin kannte Robert M. (Barockflöte, Cello) leider nicht, sie ist erst 1 Jahr vor Ort. Aus einer öffentlichen Buchleihe habe ich "der Taiga Jäger" von Arsenjew genommen. Der Hinterhof mit Garten öffnet den Sternenhimmel nach Süd-Westen. In der Mitte is klar Herkules erkennbar, am Rand des Hauses der große Wagen, während Arcturus von Bäumen verdeckt ist. Bei der nördl. Krone ist immer noch nur der Haubstern klar zu sehen.
+
+<li><b>Wetter</b></li>
+ Wind teilweise böig, Ost-Süs-Ost, sonnig
+
+<li><b>Körper</b></li>
+Blasen an den Zehen sind weniger störend. Generell Schmerzen an den Füßen beim loslaufen, während des Laufens in Ordnung.
+
+<li><b>Besonderes</b></li>
+In Dargelütz gehe ich an einem Schild vorbei mit dem Jakobszeichen und der Aufschrift "Pilgrims Wellcome". Neugierig und da ich gut in der Zeit bin, beschließe ich "Hallo" zu sagen. Ich gehe hinten zum Gartenzaun, von wo mich vier überraschte Gesichter anschauen. Sie haben das Schild vor 2 Monaten angebracht und ich bin der erste Gast. Die Vier sind Torsten (~35) aus Hamburg mit langen aber schütterem Kinnbart, etwas dick und gutmütig, Thomas (~35), wilde Locken am Kopf und Bart, Tom und Diana. Hund Bala, zwei Kinder, Kosmo und ein anderer tauchen ab und zu auf. Sie erzählen von einem Aufstand, den sie planen. Sie sind im Verein der "Schenker" und leben kostenfrei in dem Haus. Allerdings will der Anführer der "Schenker" Öf-Öf (Öffi) einen geistig und körperlich Behinderten dort unterbringen, genen "Tarzan". Das wollen die derzeigigen Bewohner nich, weil es zu viel Arbeit bedeutet. Die Aufnahme von Tarzan wollen die Bewohner verhindern! Ein Kind von Diana hat Torsten am morgen mit Deo-Spray in den Mund gesprüht, was diesen liebevollen Bären in Rage gebracht hat.
+ </ul>
+</details>
+
+----------------------
+
+<details close>
+<summary>21. September 2024, Demen-Parchim (27 km)</summary>
 
 <ul><li><b>Allgemein</b></li>
  

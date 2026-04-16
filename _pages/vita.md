@@ -156,7 +156,7 @@ Seit 2026 gründen Dr. Xianghua Chu und ich die Firma BIOTAIX. Unser Motto ist *
   <a href="/assets/images/2604_AachenDom_crop.png">
   <img src="/assets/images/2604_AachenDom_crop.png"></a>
 
-  <figcaption>Das BIOTAIX Gründungsteam: Dr. Xianghua Chu (rechts) und Dr. Ulf Liebal.
+  <figcaption>Das BIOTAIX Gründungsteam: Dr. Xianghua Chu (rechts) und Dr. Ulf Liebal.</figcaption>
 </figure>
 
 ## Arbeiten am iAMB der RWTH

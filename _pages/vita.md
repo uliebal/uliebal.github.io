@@ -115,10 +115,10 @@ block-beta
 Eine Auswahl der wichtigsten beruflichen und akademischen Stationen.
 <pre class="mermaid">
 kanban
-    BIOTAIX["seit 2024"]
-        task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
-        task2["Prof. Dr. Lars Blank"]
-        task3["Data-Science und -Management.<br>Lehrstrategien für die Datenanalyse.<br>Arbeit mit metabolischen Modellen."]
+    BIOTAIX["seit 2026"]
+        task1["Gründer,<br><a href="https://www.biotaix.com/">BIOTAIX</a>"]
+        task2["mit Dr. Xianghua Chu"]
+        task3["KI Assistenten für die Programmierung von Pipettierrobotern und Laborsimulation."]
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]
@@ -148,8 +148,22 @@ kanban
         task3["Optimierung der rekombinanten Expression von humanen Proteinen in Bakterien."]
 </pre>
 
+## BIOTAIX StartUp
+
+Seit 2026 gründen Dr. Xianghua Chu und ich die Firma BIOTAIX. Unser Motto ist *Let's code the future of lab automation* und wir bieten KI-Assistenzsoftware für die Programmierung von Pipettierrobotern an. Die Laborautomatisierung ist im vollen Gang und Pipettierroboter spielen eine große Rolle Routineaufgaben mit Flüssigkeiten effizienter zu gestalten. Allerdings erfordert die Programmierung der Roboter noch viel Programmierkenntnisse aber unsere Software hilft diesen Prozess zu vereinfachen und zu beschleunigen. Damit können Biotech-Projekte ihre Ziele schneller und günstiger erreichen: damit der Übergang zur nachhaltigen Bioökonomie Realität wird.
+
+<figure class="full">
+  <a href="/assets/images/2604_AachenDom_crop.png">
+  <img src="/assets/images/2604_AachenDom_crop.png"></a>
+
+  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu. Foto: Martin Zimmermann</figcaption>
+  <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
+</figure>
+
 ## Arbeiten am iAMB der RWTH
 
+<details close>
+<summary>Mehr Infos</summary>
 Zwischen 2022 und 2024 habe ich als Nachwuchsleiter die computergestützte Biotechnologie verantwortet. Dabei habe ich Studierende in Praktika und Abschlussarbeiten in einem motivierendem Arbeitsklima betreut. 
 <figure class="full">
   <a href="/assets/images/24_iAMBCompBiotech.jpeg">
@@ -159,8 +173,6 @@ Zwischen 2022 und 2024 habe ich als Nachwuchsleiter die computergestützte Biote
   <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
 </figure>
 
-<details close>
-<summary>Mehr Infos</summary>
 In meiner Gruppe haben wir biotechnologische Prozesse simuliert und informative Analyse-Workflows entwickelt. Ein Kernelement meiner Forschung sind genomskalige metabolische Modelle von Mikroorganismen. Solche Modelle habe ich von verschiedenen Organismen erstellt (<a href="https://dx.doi.org/10.3390/jof8050524"><i>Ustilago maydis</i></a>, <a href="https://dx.doi.org/10.1186/s12896-021-00675-w"><i>Ogataea polymorpha</i></a>, <a href="https://dx.doi.org/10.1038/s44320-024-00060-7"><i>Bäckerhefe</i></a>. Die Modelle untersuche ich nach optimalen Bedingungen für biotechnologische Produktion von verschiedenen Substrat- und Zielkomponenten (z.B. <a href="https://dx.doi.org/10.1186/s12934-023-02283-z">Methanolumwandlung</a>, <a href="https://dx.doi.org/10.1002/bit.28693">Itaconat Produktion</a>). Ich verknüpfe Theorie und Experiment, um zum Beispiel durch statistische Versuchsplanung optimale Prozessbedingungen zu bestimmen (<a href="https://doi.org/10.1016/j.nbt.2024.08.505">Ginseng-enthaltende Stoffe in Hefe</a>, oder die Modellvorhersagen durch Experimente zu validieren (Genexpression in Bakterien <a href="https://dx.doi.org/10.1021/acssynbio.3c00084">1</a>, <a href="https://doi.org/10.1016/j.jbiotec.2005.05.028">2</a>). <br>
 <br>
 Auch maschinelles Lernen und KI habe ich für die Datenanalyse in der (<a href="https://dx.doi.org/10.3389/fbinf.2021.747428">Genexpression</a>) und für <a href="https://dx.doi.org/10.3390/metabo10060243">Metabolomics</a>) eingesetzt. Ich benutze Python für Simulation und Optimierung, z.B. lineare Optimierung, genetische Algorithmen oder maschinelles Lernen mit dem Ziel den FAIR-Standards zu entsprechen. Ich war Ansprechpartner für Datenmanagement, habe die Einführung eines elektronischen Laborbuches organisiert und war IT-Systemadministrator.<br>

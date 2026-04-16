@@ -150,7 +150,7 @@ kanban
 
 ## BIOTAIX StartUp
 
-Seit 2026 gründen Dr. Xianghua Chu und ich die Firma BIOTAIX. Unser Motto ist *Let's code the future of lab automation* und wir bieten KI-Assistenzsoftware für die Programmierung von Pipettierrobotern an. Die Laborautomatisierung ist im vollen Gang und Pipettierroboter spielen eine große Rolle Routineaufgaben mit Flüssigkeiten effizienter zu gestalten. Allerdings erfordert die Programmierung der Roboter noch viel Programmierkenntnisse aber unsere Software hilft diesen Prozess zu vereinfachen und zu beschleunigen. Damit können Biotech-Projekte ihre Ziele schneller und günstiger erreichen: damit der Übergang zur nachhaltigen Bioökonomie Realität wird.
+Seit 2026 gründen Dr. Xianghua Chu und ich die Firma BIOTAIX. Unser Motto ist *Let's code the future of lab automation* und wir bieten KI-Assistenzsoftware für die Programmierung von Pipettierrobotern an. Die Laborautomatisierung ist im vollen Gang und Pipettierroboter spielen eine große Rolle Routineaufgaben mit Flüssigkeiten effizienter zu gestalten. Allerdings erfordert die Programmierung der Roboter noch viel Programmierkenntnisse aber unsere Software hilft diesen Prozess zu vereinfachen und zu beschleunigen. So können Biotech-Projekte ihre Ziele schneller und günstiger erreichen: damit der Übergang zur nachhaltigen Bioökonomie Realität wird.
 
 <figure class="full">
   <a href="/assets/images/2604_AachenDom_crop.png">

@@ -156,8 +156,7 @@ Seit 2026 gründen Dr. Xianghua Chu und ich die Firma BIOTAIX. Unser Motto ist *
   <a href="/assets/images/2604_AachenDom_crop.png">
   <img src="/assets/images/2604_AachenDom_crop.png"></a>
 
-  <figcaption>Die Gruppe für computergestützte Biotechnologie am iAMB im Frühling 2024. Neben Ulf Liebal (rechts), kam 2024 Tobias Alter (mitte) als Co-Leiter hinzu. Foto: Martin Zimmermann</figcaption>
-  <!-- Vlnr: Willy Mroczowski, Karan Kumar, Nina Röhre, Constantin Schedel, Tobias Alter, Samira van den Bogard (Winne), Aziz Ben Ammar, Titania Sugiarto, Ulf Liebal (fehlend: Paula Lanze)-->
+  <figcaption>Das BIOTAIX Gründungsteam: Dr. Xianghua Chu (rechts) und Dr. Ulf Liebal.
 </figure>
 
 ## Arbeiten am iAMB der RWTH

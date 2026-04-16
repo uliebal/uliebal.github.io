@@ -115,6 +115,10 @@ block-beta
 Eine Auswahl der wichtigsten beruflichen und akademischen Stationen.
 <pre class="mermaid">
 kanban
+    BIOTAIX["seit 2024"]
+        task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
+        task2["Prof. Dr. Lars Blank"]
+        task3["Data-Science und -Management.<br>Lehrstrategien für die Datenanalyse.<br>Arbeit mit metabolischen Modellen."]
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]

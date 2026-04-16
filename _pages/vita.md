@@ -118,7 +118,7 @@ kanban
     BIOTAIX["seit 2026"]
         task1["Gründer,<br><a href="https://www.biotaix.com/">BIOTAIX</a>"]
         task2["mit Dr. Xianghua Chu"]
-        task3["KI Assistenten für die Programmierung von Pipettierrobotern und Laborsimulation."]
+        task3["KI Assistenten für die Programmierung von Pipettierrobotern und Laborsimulationen für die Planung von Experimenten."]
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]

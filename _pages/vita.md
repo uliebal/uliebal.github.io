@@ -134,7 +134,7 @@ kanban
 </pre>
 <pre class="mermaid">
 kanban
-    SBI2["2013-2015"]
+    SBI["2013-2015"]
         task1["PostDoc,<br><a href="https://www.sbi.uni-rostock.de/">SBI, Uni. Rostock</a>"]
         task2["Prof. Dr. Olaf Wolkenhauer"]
         task3["Bewertung des Einflusses von Sauerstoffradikalen auf die Alterung.<br>Lehre in Systembiologie, Betreuung von Masterarbeiten, Antragsstellung."]
@@ -146,7 +146,7 @@ kanban
         task1["Gastwissenschaftler<br><a href="https://www.massey.ac.nz/">Massey University</a>, Neuseeland"]
         task2["Prof. Dr. David Penny"]
         task3["Computeranalysen zur Effizienz von RNA-Basenpaarung im Bezug zur evolutionären \textit{RNA-world} Hypothese.<a href="/assets/Files/2007_NZ-Report.pdf"><i class="fa-solid fa-download"></i></a>"]
-    SBI2["2005-2006"]
+    BPEL["2005-2006"]
         task1["Diplomarbeit,<br>BPEL,<a href="https://www.oulu.fi/en">Uni. Oulu</a>, Finnland"]
         task2["Prof. Dr. Peter Neubauer"]
         task3["Optimierung der rekombinanten Expression von humanen Proteinen in Bakterien."]

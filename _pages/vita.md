@@ -119,6 +119,10 @@ kanban
         task1["Gründer,<br><a href="https://www.biotaix.com/">BIOTAIX</a>"]
         task2["mit Dr. Xianghua Chu"]
         task3["KI Assistenten für die Programmierung von Pipettierrobotern und Laborsimulationen für die Planung von Experimenten."]
+    WHS["01-09/2026"]
+        task1["KI-Entwickler,<br><a href="http://www.apz-rl.de/BioProzessTechnik/">BPT, WHS</a>"]
+        task2["Prof. Dr. Frank Eiden"]
+        task3["Entwicklung einer KI-gestützten Regelungssteuerung für die Optimierung der Fermentation von Backhefe."]
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]
@@ -127,13 +131,13 @@ kanban
         task1["PostDoc,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>"]
         task2["Prof. Dr. Lars Blank"]
         task3["Fluss Analysen und lineare Optimierung des Hefe-Metabolismus.<br>Stammentwicklung für Succinatproduktion."]
+</pre>
+<pre class="mermaid">
+kanban
     SBI2["2013-2015"]
         task1["PostDoc,<br><a href="https://www.sbi.uni-rostock.de/">SBI, Uni. Rostock</a>"]
         task2["Prof. Dr. Olaf Wolkenhauer"]
         task3["Bewertung des Einflusses von Sauerstoffradikalen auf die Alterung.<br>Lehre in Systembiologie, Betreuung von Masterarbeiten, Antragsstellung."]
-</pre>
-<pre class="mermaid">
-kanban
     kaist["07-11/2008"]
         task1["Gastwissenschaftler,<br><a href="https://www.kaist.ac.kr/en/">KAIST</a>, Südkorea"]
         task2["Prof. Dr. Kwang-Hyun Cho"]

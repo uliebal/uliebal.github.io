@@ -3,7 +3,7 @@ permalink: /musik/
 title: "Musik"
 classes: wide
 feature_row:
-  - image_path: /assets/images/24_BPA.jpg
+  - image_path: /assets/images/2512_BPA-Corijn.jpg
     alt: "BPA"
     title: "BPA"
     excerpt: "seit 2016: (Kontra-)Fagottist bei der [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/)."

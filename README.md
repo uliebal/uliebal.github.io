@@ -6,3 +6,6 @@ Many thanks to [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
 run in terminal with
 > bundle exec jekyll serve
+
+For automatic deployment, set the repository's Pages source to **GitHub Actions** in
+**Settings → Pages → Build and deployment**. The `pages.yml` workflow builds and deploys the site.

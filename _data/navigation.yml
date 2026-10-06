@@ -2,10 +2,33 @@ main:
   - title: "Vita"
     url: /vita/
   - title: "Musik"
-    url: /musik/
+    url: /musik/intro/
   - title: "Ehrenamtlich"
     url: /ehre/
   - title: "Weltweit"
     url: /posts/
   - title: "Computer"
-    url: /computer/
+    url: /computer/hausstats/
+    # children:
+    #   - title: "Arduino"
+    #     url: /computer/arduino/
+    #   - title: "Haus-Statistiken"
+    #     url: /computer/hausstats/
+
+computer:
+  - title: "Computer"
+    children:
+      - title: "Haus-Statistiken"
+        url: /computer/hausstats/
+      - title: "Arduino"
+        url: /computer/arduino/
+
+musik:
+  - title: "Musik"
+    children:
+      - title: "Fagott"
+        url: /musik/intro/
+      - title: "Orchester"
+        url: /musik/orchester/
+      - title: "LiebCosung"
+        url: /musik/liebcosung/

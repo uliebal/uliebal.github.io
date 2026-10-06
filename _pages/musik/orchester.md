@@ -1,27 +1,29 @@
 ---
-permalink: /musik/
-title: "Musik"
+permalink: /musik/orchester
+title: "Orchester"
 classes: wide
-feature_row:
-  - image_path: /assets/images/2512_BPA-Corijn.jpg
+sidebar:
+  nav: "musik"
+  
+gallery1:
+  - url: /assets/images/2512_BPA-Corijn.jpg
+    image_path: /assets/images/2512_BPA-Corijn.jpg
     alt: "BPA"
     title: "BPA"
     excerpt: "seit 2016: (Kontra-)Fagottist bei der [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/)."
-  - image_path: /assets/images/12_fsor.jpg
+  - url: /assets/images/12_fsor.jpg
+    image_path: /assets/images/12_fsor.jpg
     alt: "FSOR"
     title: "FSOR"
     excerpt: "2007-2015: Fagottist beim [Freies Studentisches Orchester Rostock (FSOR)](https://www.fsor.de)."
-  - image_path: /assets/images/11_michaelstein.jpg
+  - url: /assets/images/11_michaelstein.jpg
+    image_path: /assets/images/11_michaelstein.jpg
     alt: "Bachs Erben"
     title: "Bachs Erben"
     excerpt: "2011: [Jugend-Barockorchester](https://bachs-erben.de/) auf Michaelstein mit Raphael Alpermann."
 ---
 
-{% include feature_row %}
-
-Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivierend Gerd Becker, 1. Solo-Fagottist an der [Philharmonie Magdeburg](https://www.theater-magdeburg.de/menschen/philharmonie/). Während des Biochmie-Studium in Halle hatte ich Unterricht bei [Frank Benkendorf](https://www.buehnen-halle.de/de/staatskapelle-halle), und in Rostock bei [Stephan von Hoff](https://www.hmt-rostock.de/hochschule/lehrende/institut-fuer-musik/blaeserabteilung/stephan-von-hoff-fagott/).
-
-1998-2000 Klavierunterricht bei [Dieter Nathow](https://www.musikland-sachsenanhalt.de/beitraege/nathow-dieter-1937-2004/).
+{% include gallery id="gallery1" caption="Musizieren mit der BPA (2025), dem FSOR (2012) und Bachs Erben." %}
 
 | Datum | Orchester | Leiter/Dirigent | Ort | Repertoire | Stimme |
 |:--:||:--:||:--:||:--:||:--:||:--:|

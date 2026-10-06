@@ -25,9 +25,10 @@ Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivi
 
 | Datum | Orchester | Leiter/Dirigent | Ort | Repertoire | Stimme |
 |:--:||:--:||:--:||:--:||:--:||:--:|
-|2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
-|2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay, Senne La Mela, Lars Corijn | Aachen, Flicorno D'Oro 2026, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz, Robles, van Dorst|1./2./Kontra|
-|2016, 2025| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall, Tobias Haußig | Aachen | Hector Berlioz, Symphonie Fantastique | 2.|
+|2026| [Philharmonisches Orchester Aachen](https://philharmonisches-orchester-aachen.de/)| Christian Brandenburger | Aachen | Mendelsohn, Symph. 3, Mozart Symph. 40 | 2.|
+|seit 2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
+|seit 2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay, Senne La Mela, Lars Corijn | Aachen, Flicorno D'Oro 2026, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz, Robles, van Dorst|1./2./Kontra|
+|2016, 2025-26| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall, Tobias Haußig | Aachen | Hector Berlioz, Symphonie Fantastique | 2.|
 |2015| [Junges Sinfonieorchester](https://www.jso-aachen.de/)| Peter Sauerwein | Aachen | Guiseppe Verdi, Requiem | 3.  |
 |2011| Orchester Neubrandenburg/Norddeutsche Philharmonie| Stefan Malzew, Solist: Jonas Kaufmann| Saarbrücken | Gustav Mahler, Das Lied von der Erde | 2.  |
 |2011|[Potsdamer Orchesterwoche](http://www.pow-online.de/)| Dietrich Schönherr | Werder (Havel)|Joseph Haydn, Concertante B-Dur (Hob. I:105)| Solist|

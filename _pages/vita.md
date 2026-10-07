@@ -71,8 +71,10 @@ carousels:
 Allgemein
 ---------
 - Geburtsort: Magdeburg
-- Geburtsjahr: 1981, 
+- Geburtsjahr: 1981
 - Mein 3. Saros-Zyklus beginnt am 16.10.2035
+- Begeisterter Fagottistin vielzähligen <a href="/musik/">Ensembles</a>
+- Deutsches Sportabzeichen (DOSB): Bonze (2009), Mitglied beim <a href="https://www.ksc73.de">Kohlscheider Schwimmclub</a>
 
 Bildung
 ---------
@@ -115,14 +117,14 @@ block-beta
 Eine Auswahl der wichtigsten beruflichen und akademischen Stationen.
 <pre class="mermaid">
 kanban
-    BIOTAIX["seit 2026"]
+    BIOTAIX["01-08/2026"]
         task1["Gründer,<br><a href="https://www.biotaix.com/">BIOTAIX</a>, Aachen"]
         task2["mit Dr. Xianghua Chu"]
         task3["KI Assistenten für die Programmierung von Pipettierrobotern und Laborsimulationen für die Planung von Experimenten."]
     WHS["01-09/2026"]
-        task1["KI-Entwickler,<br><a href="http://www.apz-rl.de/BioProzessTechnik/">BPT, WHS</a>, Recklinghausen"]
+        task1["KI-Entwickler/Lab-Automation,<br><a href="http://www.apz-rl.de/BioProzessTechnik/">BPT, WHS</a>, Recklinghausen"]
         task2["Prof. Dr. Frank Eiden"]
-        task3["Entwicklung einer KI-gestützten Regelungssteuerung für die Optimierung der Fermentation von Backhefe."]
+        task3["Entwicklung einer KI-gestützten Regelung für die Optimierung der Fermentation von Backhefe."]
     RWTH2["2020-2024"]
         task1["Teamleiter,<br><a href="https://www.iamb.rwth-aachen.de/">iAMB, RWTH</a>, Aachen"]
         task2["Prof. Dr. Lars Blank"]

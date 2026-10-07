@@ -1,33 +1,36 @@
 ---
-permalink: /musik/
-title: "Musik"
+permalink: /musik/orchester
+title: "Orchester"
 classes: wide
-feature_row:
-  - image_path: /assets/images/2512_BPA-Corijn.jpg
+sidebar:
+  nav: "musik"
+  
+gallery1:
+  - url: /assets/images/2512_BPA-Corijn.jpg
+    image_path: /assets/images/2512_BPA-Corijn.jpg
     alt: "BPA"
     title: "BPA"
     excerpt: "seit 2016: (Kontra-)Fagottist bei der [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/)."
-  - image_path: /assets/images/12_fsor.jpg
+  - url: /assets/images/12_fsor.jpg
+    image_path: /assets/images/12_fsor.jpg
     alt: "FSOR"
     title: "FSOR"
     excerpt: "2007-2015: Fagottist beim [Freies Studentisches Orchester Rostock (FSOR)](https://www.fsor.de)."
-  - image_path: /assets/images/11_michaelstein.jpg
+  - url: /assets/images/11_michaelstein.jpg
+    image_path: /assets/images/11_michaelstein.jpg
     alt: "Bachs Erben"
     title: "Bachs Erben"
     excerpt: "2011: [Jugend-Barockorchester](https://bachs-erben.de/) auf Michaelstein mit Raphael Alpermann."
 ---
 
-{% include feature_row %}
-
-Ich spiele seit 1993 Fagott. Ausgebildet hat mich liebevoll, geduldig und motivierend Gerd Becker, 1. Solo-Fagottist an der [Philharmonie Magdeburg](https://www.theater-magdeburg.de/menschen/philharmonie/). Während des Biochmie-Studium in Halle hatte ich Unterricht bei [Frank Benkendorf](https://www.buehnen-halle.de/de/staatskapelle-halle), und in Rostock bei [Stephan von Hoff](https://www.hmt-rostock.de/hochschule/lehrende/institut-fuer-musik/blaeserabteilung/stephan-von-hoff-fagott/).
-
-1998-2000 Klavierunterricht bei [Dieter Nathow](https://www.musikland-sachsenanhalt.de/beitraege/nathow-dieter-1937-2004/).
+{% include gallery id="gallery1" caption="Musizieren mit der BPA (2025), dem FSOR (2012) und Bachs Erben." %}
 
 | Datum | Orchester | Leiter/Dirigent | Ort | Repertoire | Stimme |
 |:--:||:--:||:--:||:--:||:--:||:--:|
-|2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
-|2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay, Senne La Mela, Lars Corijn | Aachen, Flicorno D'Oro 2026, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz, Robles, van Dorst|1./2./Kontra|
-|2016, 2025| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall, Tobias Haußig | Aachen | Hector Berlioz, Symphonie Fantastique | 2.|
+|2026| [Philharmonisches Orchester Aachen](https://philharmonisches-orchester-aachen.de/)| Christian Brandenburger | Aachen | Mendelsohn, Symph. 3, Mozart Symph. 40 | 2.|
+|seit 2024| Orchesterverein Kohlscheid ([OVK](https://www.orchesterverein-kohlscheid.de/))| Patrick Körver | Kohlscheid | verschiedenes| 1. |
+|seit 2016| [Bläserphilharmonie Aachen (BPA)](https://blaeserphilharmonie-aachen.de/) | Tobias Haußig, Harry Vorselen, Miguel Etchegoncelay, Senne La Mela, Lars Corijn | Aachen, Flicorno D'Oro 2026, WMC 2023 & 2017, FIMU 2018 |Mackey, Spark, Kosmicki, Pütz, Robles, van Dorst|1./2./Kontra|
+|2016, 2025-26| [Collegium Musicum](https://www.cm.rwth-aachen.de/cms/cm/das-collegium/~mxqhk/orchester/) Aachen| Ernst von Marschall, Tobias Haußig | Aachen | Hector Berlioz, Symphonie Fantastique | 2.|
 |2015| [Junges Sinfonieorchester](https://www.jso-aachen.de/)| Peter Sauerwein | Aachen | Guiseppe Verdi, Requiem | 3.  |
 |2011| Orchester Neubrandenburg/Norddeutsche Philharmonie| Stefan Malzew, Solist: Jonas Kaufmann| Saarbrücken | Gustav Mahler, Das Lied von der Erde | 2.  |
 |2011|[Potsdamer Orchesterwoche](http://www.pow-online.de/)| Dietrich Schönherr | Werder (Havel)|Joseph Haydn, Concertante B-Dur (Hob. I:105)| Solist|

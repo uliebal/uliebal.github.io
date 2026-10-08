@@ -1,5 +1,5 @@
 ---
-permalink: /musik/orchester
+permalink: /musik/orchester/
 title: "Orchester"
 classes: wide
 sidebar:

@@ -2,7 +2,7 @@ main:
   - title: "Vita"
     url: /vita/
   - title: "Musik"
-    url: /musik/intro/
+    url: /musik/fagott/
   - title: "Ehrenamtlich"
     url: /ehre/
   - title: "Weltweit"
@@ -29,7 +29,7 @@ musik:
   - title: "Musik"
     children:
       - title: "Fagott"
-        url: /musik/intro/
+        url: /musik/fagott/
       - title: "Orchester"
         url: /musik/orchester/
       - title: "LiebCosung"

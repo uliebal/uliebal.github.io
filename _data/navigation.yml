@@ -8,7 +8,7 @@ main:
   - title: "Weltweit"
     url: /posts/
   - title: "Computer"
-    url: /computer/hausstats/
+    url: /computer/PipettRobot/
     # children:
     #   - title: "Arduino"
     #     url: /computer/arduino/
@@ -18,6 +18,8 @@ main:
 computer:
   - title: "Computer"
     children:
+      - title: "Pipettierroboter"
+        url: /computer/PipettRobot/
       - title: "Haus-Statistiken"
         url: /computer/hausstats/
       - title: "Arduino"

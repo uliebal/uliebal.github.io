@@ -73,8 +73,8 @@ Allgemein
 - Geburtsort: Magdeburg
 - Geburtsjahr: 1981
 - Mein 3. Saros-Zyklus beginnt am 16.10.2035
-- Begeisterter Fagottistin vielzähligen <a href="/musik/">Ensembles</a>
-- Deutsches Sportabzeichen (DOSB): Bonze (2009), Mitglied beim <a href="https://www.ksc73.de">Kohlscheider Schwimmclub</a>
+- Begeisterter Fagottistin vielzähligen <a href="/musik/orchester/">Ensembles</a>
+- Deutsches Sportabzeichen (DOSB): Gold (2026), Mitglied beim <a href="https://www.ksc73.de">Kohlscheider Schwimmclub</a>
 
 Bildung
 ---------

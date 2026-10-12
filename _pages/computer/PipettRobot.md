@@ -27,8 +27,13 @@ Download für Dateien des Pipettierroboters:
   <figcaption>Computermodel und Lego-Realisierung für den Pipettierroboter.</figcaption>
 </figure>
 
-
+<figure class="half">
 <video controls preload="metadata" style="width:50%">
   <source src="/assets/Files/PipettRobot/260709_LegoRobotFirstMoves_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<video controls preload="metadata" style="width:50%">
+  <source src="/assets/Files/PipettRobot/2610_NewPipRobot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</figure>

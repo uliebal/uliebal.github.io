@@ -16,9 +16,20 @@ sidebar:
 Tango 8 ([musescore-link](https://musescore.com/user/91906675/scores/36215336?share=copy_link)), Bläserquintett in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
 {% endcapture %}
 
+{% capture notice-3 %}
+{% include figure popup=true image_path="/assets/Files/art/2205_IAU-triangles_small.jpg" alt="Kunst Ishaan"%}
+
+<audio controls preload="none">
+  <source src="/assets/Files/music/2503_EbrunnenTango_1.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
+Elisenbrunnen-Tango in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
+{% endcapture %}
+
+
 <table>
   <tr>
     <th><div class="notice">{{ notice-2 | markdownify }}</div></th>
-    <th><div class="notice">{{ notice-2 | markdownify }}</div></th>
+    <th><div class="notice">{{ notice-3 | markdownify }}</div></th>
   </tr>
 </table>

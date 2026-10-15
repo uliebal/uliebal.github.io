@@ -8,22 +8,29 @@ sidebar:
 
 {% capture notice-2 %}
 {% include figure popup=true image_path="/assets/Files/art/RoundColors_22.jpg" alt="Kunst Ishaan"%}
-
 <audio controls preload="none">
   <source src="/assets/Files/music/Tango8.mp3" type="audio/mpeg">
   Ihr Browser unterstützt das Audio-Element nicht.
 </audio>
-Tango 8 ([musescore-link](https://musescore.com/user/91906675/scores/36215336?share=copy_link)), Bläserquintett in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
+"Tango 8" ([musescore-link](https://musescore.com/user/91906675/scores/36215336?share=copy_link)), Bläserquintett in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
 {% endcapture %}
 
 {% capture notice-3 %}
 {% include figure popup=true image_path="/assets/Files/art/2205_IAU-triangles_small.jpg" alt="Kunst Ishaan"%}
-
 <audio controls preload="none">
   <source src="/assets/Files/music/2503_EbrunnenTango_1.mp3" type="audio/mpeg">
   Ihr Browser unterstützt das Audio-Element nicht.
 </audio>
-Elisenbrunnen-Tango in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
+"Elisenbrunnen-Tango" in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
+{% endcapture %}
+
+{% capture notice-1 %}
+{% include figure popup=true image_path="/assets/Files/art/22_Ishaan_Circles_small.jpg" alt="Kunst Ishaan"%}
+<audio controls preload="none">
+  <source src="/assets/Files/music/Open World remix 22.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
+"Open World" in Zusammenarbeit mit Christopher Coßmann, Bild von I. Liebal.
 {% endcapture %}
 
 
@@ -31,5 +38,9 @@ Elisenbrunnen-Tango in Zusammenarbeit mit Christopher Coßmann, Bild von I. Lieb
   <tr>
     <th><div class="notice">{{ notice-2 | markdownify }}</div></th>
     <th><div class="notice">{{ notice-3 | markdownify }}</div></th>
+  </tr>
+  <tr>
+    <th><div class="notice">{{ notice-1 | markdownify }}</div></th>
+    <th></th>
   </tr>
 </table>
